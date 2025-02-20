@@ -1,5 +1,5 @@
 ---
-title: "Projet : Central Park 🐿️"
+title: "Projet Central Park 🐿️"
 date: 2
 ---
 
