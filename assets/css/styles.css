@@ -1,0 +1,129 @@
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #FFFFFF;
+  color: #333333;
+}
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center; /* Centre les éléments horizontalement */
+  background-color: #333333;
+  color: #FFFFFF; /* Pour que le texte soit lisible sur le fond noir */
+}
+
+.skill {
+  flex: 1;
+  min-width: 200px; /* Ajustez selon le besoin */
+}
+
+.skill-content {
+  display: flex;
+  flex-direction: column; /* Aligne les éléments verticalement */
+  align-items: center; /* Centre les éléments horizontalement dans le skill */
+}
+.empty-block {
+  width: 1%; /* La largeur du bloc vide */
+  height: 50px; /* La hauteur du bloc vide */
+  background-color: #333333; /* Couleur de fond pour rendre le bloc visible */
+  border: 1px solid #333333 !important; /* Bordure pour mieux voir le bloc */
+  margin: 10px 0; /* Marge pour espacer les blocs */
+}
+.skill-name {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 5px;
+  font-family: 'Arial', sans-serif;
+  font-size: 1em;
+}
+
+.progress-bar-container {
+  background-color: #525252;
+  border-radius: 25px;
+  overflow: hidden;
+  width: 80% !important;  /* La barre de progression occupe toute la largeur du conteneur */
+}
+
+.progress-bar {
+  height: 7px;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+  text-align: center;
+  color: white;
+  line-height: 7px; /* Ajuster line-height à la nouvelle hauteur */
+  width: var(--progress-width);  /* La barre de progression est définie par une variable CSS */
+}
+
+.skill-details {
+  text-align: center;
+  margin-top: 5px;
+  font-family: 'Arial', sans-serif;
+  font-size: 0.9em;
+  color: #777;
+  width: 80% !important;  /* Le texte de détail occupe toute la largeur du conteneur */
+}
+
+  .container {
+    display: flex;
+    align-items: flex-start;
+  }
+  .image-container {
+    width: 50px;
+    margin-right: 20px;
+  }
+
+  .image-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* Pour s'assurer que l'image couvre tout le conteneur */
+  }
+  .text-container {
+    flex: 1;
+    background-color: #FFFFFF;
+    color: #333333;
+  }
+  .text-content {
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    color: #333333;
+    line-height: 1.5;
+  }
+  .text-content h2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333333;
+    margin-top: 20px;
+  }
+  .text-content strong {
+    font-weight: bold;
+    color: #333333;
+  }
+  .text-content ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #333333;
+  }
+.text-container h2 {
+  font-size: 1.5em;
+  margin-top: 0.5em;
+  color: #333333;
+}
+
+.text-container strong {
+  font-weight: bold;
+  color: #333333;
+}
+
+.text-container em {
+  font-style: italic;
+  color: #333333;
+}
+
+.text-container ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  color: #333333;
+}
