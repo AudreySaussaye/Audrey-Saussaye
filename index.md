@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: ""
 ---
 
 # **Bienvenue dans mon portfolio et merci ! 🙂**
