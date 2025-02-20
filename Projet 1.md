@@ -1,10 +1,10 @@
 ---
-title: "🏥 Projet : Analyse sur la santé et le COVID-19"
+title: "Projet 1 : 🏥 COVID-19"
 date: 1
 ---
 
 
-## **Mission**
+## **Mission : Analyse sur la santé et le COVID-19**
 
 Cette mission a été réalisée dans un cadre personnel, dans le but de structuer une démarche complète EDA - Machine Learning.
 Le détail du fichier d’analyse, du rapport est consultable ici : [Projet](https://github.com/PikaChou82/AudreySaussaye/tree/main/projets/covid_19)
