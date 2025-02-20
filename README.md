@@ -8,7 +8,7 @@ _Ce Repository contient quelques réalisations pour comprendre ma démarche et m
 
 ## 🎒Mon Parcours
 
-* [Accéder à mon CV](https://raw.githubusercontent.com/PikaChou82/AudreySaussaye/refs/heads/main/_mon%20parcours/CvAudrey.pdf)
+* [Accéder à mon CV](https://raw.githubusercontent.com/AudreySaussaye/Audrey-Saussaye/refs/heads/main/parcours/CV_Audrey_Saussaye.pdf)
 
 ## 📋Ma démarche : une approche personnalisée et axée sur les résultats
 
