@@ -91,6 +91,8 @@ date: 2025-01-21
       </div>
     </div>
   </div>
+  
+  <div class="empty-block"></div> 
   <div class="skill">
     <div class="skill-name">Esprit de synthèse et d'analyse</div>
     <div class="progress-bar-container">
@@ -100,6 +102,8 @@ date: 2025-01-21
         
       </div>
     </div>
+    
+  <div class="empty-block"></div> 
   <div class="skill">
      <div class="skill-name">Curiosité et goût pour l'optimisation</div>
      <div class="progress-bar-container">
@@ -122,6 +126,8 @@ date: 2025-01-21
         
       </div>
    </div>
+   
+  <div class="empty-block"></div> 
    <div class="skill">
       <div class="skill-name">Gestion de Projets</div>
       <div class="progress-bar-container">
@@ -131,6 +137,8 @@ date: 2025-01-21
         
       </div>
    </div>
+   
+  <div class="empty-block"></div> 
   <div class="skill">
        <div class="skill-name">Rigueur</div>
        <div class="progress-bar-container">
