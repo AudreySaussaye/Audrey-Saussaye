@@ -1,5 +1,5 @@
 ---
-title: "Projet 1 : 🏥 COVID-19"
+title: "Projet COVID-19 🏥"
 date: 1
 ---
 
