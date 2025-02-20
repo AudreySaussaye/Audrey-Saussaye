@@ -4,8 +4,19 @@ title: "Accueil"
 
 # **Bienvenue dans mon portfolio et merci ! 🙂**
 
-Vous trouverez sur cette page quelques projets que j'ai mené dans le cadre de ma reconversion. L'objectif est de présenter ma méthode de travail et quelques compétences sur les outils (Python, etc.).
+Pourquoi ce portfolio ?
 
-Dans le menu, vous pouvez accéder à ma méthodologie, mon parcours et mes compétences.
+Après 20 ans passés dans le monde de la finance, du contrôle de gestion à la direction financière, j'ai ressenti le besoin de me rapprocher du terrain et de donner une nouvelle impulsion à ma carrière.
 
-Et sinon vous pouvez toujours télécharger mon CV au format [PDF](https://raw.githubusercontent.com/AudreySaussaye/Audrey-Saussaye/refs/heads/main/parcours/CV_Audrey_Saussaye.pdf), ou me contacter directement.
+Passionnée par les chiffres et leur capacité à révéler des insights précieux, je me suis naturellement tournée vers le domaine de la data analyse. Après une formation intensive de Data Analyst, j'ai complété mon parcours avec les compétences techniques et méthodologiques essentielles pour transformer les données brutes en informations exploitables.
+
+Ce portfolio présente quelques-uns de mes projets, réalisés dans le cadre de ma formation et de mes expériences personnelles. Ils témoignent de ma capacité à :
+
+▶️ Collecter, nettoyer et analyser des données provenant de sources diverses.<br>
+▶️ Maîtriser les outils statistiques et de visualisation de données (Python, Power Bi...).<br>
+▶️ Identifier les tendances, les patterns et les anomalies pour éclairer la prise de décision.<br>
+▶️ Communiquer efficacement les résultats de mes analyses à un public varié.<br>
+
+Je suis convaincue que mon expérience en finance, combinée à ces nouvelles compétences en data analyse, me permettront d'apporter une perspective unique aux entreprises.
+
+Pour une vue complète de mon profil, n'hésitez pas à naviguer dans le menu, télécharger mon [CV](https://raw.githubusercontent.com/AudreySaussaye/Audrey-Saussaye/refs/heads/main/parcours/CV_Audrey_Saussaye.pdf), ou encore me contacter pour échanger sur vos besoins : [audrey.saussaye@yahoo.fr](mailto:audrey.saussaye@yahoo.fr).
