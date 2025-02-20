@@ -1,10 +1,10 @@
 ---
-title: "🐿️ Projet : Analyse sur l'observation des écureuils à Central Park"
+title: "Projet : Central Park 🐿️"
 date: 2
 ---
 
 
-## **Mission**
+## **Mission : Analyse sur l'observation des écureuils à Central Park**
 
 Cette mission a été réalisée dans le cadre de ma formation à la Wild Code School pour l'évènement Mission Data. Sur deux jours, il fallait répondre à une problématique Client.<br>
 Le détail du fichier d'analyse, du rapport est consultable ici : [Projet](https://github.com/PikaChou82/AudreySaussaye/tree/main/projets/central_park)
