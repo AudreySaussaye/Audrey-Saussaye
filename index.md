@@ -2,6 +2,9 @@
 Audrey SAUSSAYE : Bienvenue dans mon Portfolio
 ---
 
+
+
+
 # **Bienvenue dans mon portfolio et merci ! 🙂**
 
 Vous trouverez sur cette page quelques projets que j'ai mené dans le cadre de ma reconversion. L'objectif est de présenter ma méthode de travail et quelques compétences sur les outils (Python, Power BI...)
