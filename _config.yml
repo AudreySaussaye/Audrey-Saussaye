@@ -5,4 +5,4 @@ title: "Portfolio Audrey Saussaye"
 collections:
   posts:
     output: true
-
+    title: "<b>Mes Projets</b>"
