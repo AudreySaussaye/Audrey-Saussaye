@@ -1,0 +1,8 @@
+theme: minima
+
+layout: page
+title: "Portfolio Audrey Saussaye"
+collections:
+  posts:
+    output: true
+
