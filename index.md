@@ -19,4 +19,4 @@ Ce portfolio présente quelques-uns de mes projets, réalisés dans le cadre de 
 
 Je suis convaincue que mon expérience en finance, combinée à ces nouvelles compétences en data analyse, me permettront d'apporter une perspective unique aux entreprises.
 
-Pour une vue complète de mon profil, n'hésitez pas à naviguer dans le menu, télécharger mon [CV](https://raw.githubusercontent.com/AudreySaussaye/Audrey-Saussaye/refs/heads/main/parcours/CV_Audrey_Saussaye.pdf), ou encore me contacter pour échanger sur vos besoins : [audrey.saussaye@yahoo.fr](mailto:audrey.saussaye@yahoo.fr).
+Pour une vue complète de mon profil, n'hésitez pas à naviguer dans le menu, télécharger mon [CV](https://github.com/AudreySaussaye/Audrey-Saussaye/blob/main/parcours/CV_Audrey_Saussaye.pdf), ou encore me contacter pour échanger sur vos besoins : [audrey.saussaye@yahoo.fr](mailto:audrey.saussaye@yahoo.fr).
