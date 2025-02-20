@@ -1,6 +1,6 @@
 ---
 title: "🐿️ Projet : Analyse sur l'observation des écureuils à Central Park"
-date: 2025-01-21
+date: 2
 ---
 
 
