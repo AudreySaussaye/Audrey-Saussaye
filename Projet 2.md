@@ -38,18 +38,18 @@ Les analyses se sont faites via un peu plus de 3 000 observations, avec différe
 Lorsque nous travaillons sur des données que nous ne maîtrisons pas, par exemple les différentes espèces d'écureuils dans le monde, il est important de se documenter afin d'avoir le niveau de qualifications attendu par notre client. Aussi, une recherche a été réalisée en parallèle sur la couleur des fourrures et leur dénomination :
 
 
-<img src="ttps://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell2.png" alt="Description de l'image" width="100%">
+<img src="https://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell2.png" alt="Description de l'image" width="100%">
 
 
 
 Avant d'attaquer la datavisualisation, il est recommandé de sortir les premiers indicateurs qui nous semblent pertinents afin de nous assurer de la direction à prendre dans le rapport final. Ici, il y avait un besoin de valider si les comportements pouvaient être spécifiques et s'il y avait des zones plus "propices" à l'observation des écureuils :
 
 
-<img src="ttps://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell3.png" alt="Description de l'image" width="100%">
+<img src="https://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell3.png" alt="Description de l'image" width="100%">
 
-<img src="ttps://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell4.png" alt="Description de l'image" width="100%">
+<img src="https://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell4.png" alt="Description de l'image" width="100%">
 
-<img src="ttps://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell5.png" alt="Description de l'image" width="100%">
+<img src="https://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell5.png" alt="Description de l'image" width="100%">
 
 
 ## **DATAVIZ - Les enjeux**
@@ -59,26 +59,26 @@ La datavisualisation est l'étape clé. Elle est notre moyen de communication de
 Le visuel demandé est pour des guides touristiques, public qui n'a pas forcément l'habitude des outils que nous proposerons. Il est important de toujours veiller à se mettre "à la place de".  L'un des enjeux était de proposer une carte de visualisation. Avec les nombreuses observations réalisées, une carte de chaleur était une option, mais la multiplicité d'éléments géolocalisés peut être lourde pour certains outils. Le choix a donc été de "reproduire" Central Park pour une meilleure navigabilité :
 
 
-<img src="ttps://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell6.png" alt="Description de l'image" width="35%">
+<img src="https://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell6.png" alt="Description de l'image" width="35%">
 
 
 L'intéractivité et la ludicité peut être un bon atout pour faire adhérer et utiliser. Pour cela, les info-bulles sont très pratiques et personnalisables pour une expérience maximum :
 
 
 
-<img src="ttps://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell7.png" alt="Description de l'image" width="35%">
+<img src="https://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell7.png" alt="Description de l'image" width="35%">
 
 
 Toutes les informations, même qualitatives peuvent être mises en forme. Ainsi, sur les réactions, on peut travailler quelque chose de plus simple mais tout aussi efficace :
 
 
-<img src="ttps://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell8.png" alt="Description de l'image" width="100%">
+<img src="https://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell8.png" alt="Description de l'image" width="100%">
 
 
 Enfin, il faut toujours s'assurer de répondre correctement au besoin. L'objectif était de permettre aux guides de proposer aux touristes d'apercevoir les écureuils. Un "plan de route" intéractif a été ajouté pour que le trajet soit optimisé avec le couple gagnant écureuils / points clés :
 
 
-<img src="ttps://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell9.png" alt="Description de l'image" width="50%">
+<img src="https://raw.githubusercontent.com/AudreySaussaye/Projets/refs/heads/main/central_park/images/squirell9.png" alt="Description de l'image" width="50%">
 
 
 En fonction de chaque point de visite, le guide peut retrouver la zone, le point clé, et les spécificités clés des écureuils sur place.
